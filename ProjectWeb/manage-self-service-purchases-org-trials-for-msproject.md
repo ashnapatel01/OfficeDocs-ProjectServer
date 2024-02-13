@@ -37,12 +37,6 @@ Some of these actions may require you to have a specific administrator role to m
 
 Understand what types of purchases and trials can be initiated by you or the users in your organization. The offerings vary by product. For more information, see [Product purchase and trial explanation](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins#understand-purchases-and-trials).
 
-## Enable or disable project trials
-
-You can enable or disable purchases or trials for users in your organization. For instructions on how to use this control, see [Enable or disable purchases and trials via PowerShell module](/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide).
-
-If trials are enabled, users have the chance to try Microsoft Project and request a license. If trials are disabled, users won't be allowed to start a trial, but rather will be given the ability to request a license for Microsoft Project.
-
 ## Manage license requests
 
 There are a few ways to manage self-service license requests:
